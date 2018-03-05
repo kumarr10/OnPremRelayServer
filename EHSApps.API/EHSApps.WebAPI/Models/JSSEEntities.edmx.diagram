@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="061b01f63e424d6087254472ac3b523a" Name="Diagram1">
+        <EntityTypeShape EntityType="JSSEEntityModel.EDW_COPY_vEMPLOYEE_INFO" Width="1.5" PointX="0.75" PointY="15.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.EDW_COPY_vHIERARCHY_CURR_SEC_ALL_LEVELS" Width="1.5" PointX="2.75" PointY="18.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Attachments" Width="1.5" PointX="5.25" PointY="10.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Audit_Behavior" Width="1.5" PointX="10.5" PointY="24.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Audit_Category" Width="1.5" PointX="8.25" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Audit_CategoryBehavior_Map" Width="1.5" PointX="15.75" PointY="14.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Audit_Goal" Width="1.5" PointX="9.75" PointY="17.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Audit_Security" Width="1.5" PointX="20.25" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Audit_User" Width="1.5" PointX="17.75" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Behavior" Width="1.5" PointX="10.5" PointY="10.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Category" Width="1.5" PointX="8.25" PointY="10" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Comment" Width="1.5" PointX="10.5" PointY="14.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Configuration" Width="1.5" PointX="0.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_EDW_EmpInfo_Sync" Width="1.5" PointX="7.75" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Goal" Width="1.5" PointX="7.5" PointY="14.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Goal_Frequency" Width="1.5" PointX="5.25" PointY="28" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Goal_Level" Width="1.5" PointX="5.25" PointY="31" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Hierarchy" Width="1.5" PointX="3" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Log" Width="1.5" PointX="9.75" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Main" Width="1.5" PointX="3" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Master_Behavior" Width="1.5" PointX="8.25" PointY="23.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Master_BehaviorType" Width="1.5" PointX="6" PointY="24.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Master_Category" Width="1.5" PointX="6" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Master_CategoryBehavior_Map" Width="1.5" PointX="13.5" PointY="14.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Master_Rating" Width="1.5" PointX="6" PointY="20.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Master_Region" Width="1.5" PointX="0.75" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Observee" Width="1.5" PointX="5.25" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Observer" Width="1.5" PointX="5.25" PointY="13.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Report_SaveTemplate" Width="1.5" PointX="2.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Report_Subscription" Width="1.5" PointX="17.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Security_Group" Width="1.5" PointX="12.75" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Security_GroupPermission" Width="1.5" PointX="15" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Security_Level" Width="1.5" PointX="10.5" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Security_Permission" Width="1.5" PointX="12.75" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Security_Request" Width="1.5" PointX="15" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Security_User" Width="1.5" PointX="15.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.T_JSSE_Security_UserGroup" Width="1.5" PointX="18" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.vw_JSSE_GetAllJSSEs" Width="1.5" PointX="11.75" PointY="18.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.vw_JSSE_GetGroupRequests" Width="1.5" PointX="13.75" PointY="18.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.vw_JSSE_GetGroupUsers" Width="1.5" PointX="15.75" PointY="18.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="JSSEEntityModel.vw_JSSE_GetSecurityGroups" Width="1.5" PointX="17.75" PointY="17.25" IsExpanded="true" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Attachments_JSSEMain" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Audit_Behavior_MasterBehavior" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Audit_Category_MasterCategory" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Audit_Category_Behavior_Map" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Audit_Goal_GoalMain" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Audit_Security_GroupPermission" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Audit_Security_UserGroup" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Behavior_Category" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Behavior_MasterBehavior" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Behavior_MasterBehaviorType" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Category_MainJSSE" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Category_MasterCategory" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Category_MasterRating" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Comment_Category" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_GoalMain_Frequency" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_GoalMain_Level" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_GoalMain_Observer" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Obsrvee_Hierarchy" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Obsrvr_Hierarchy" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Main_Region" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Observee_JSSEMain" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Observer_JSSEMain" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Master_Behavior_BehaviorType" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Master_CategoryBehavior_Behavior" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Master_CategoryBehavior_Category" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Security_GrpPermission_Group" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Security_Request_Group" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Security_UserGroup_Group" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Security_GrpPermission_Permission" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Security_GrpPermission_Level" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Security_UserGroup_User" ManuallyRouted="false" />
+        <AssociationConnector Association="JSSEEntityModel.FK_T_JSSE_Behavior_T_JSSE_Master_Rating" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

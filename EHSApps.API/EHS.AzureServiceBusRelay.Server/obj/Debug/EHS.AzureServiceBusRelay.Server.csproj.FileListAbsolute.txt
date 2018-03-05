@@ -1,0 +1,17 @@
+D:\RahulWorkingFolder\CorpTFS\EHS_Projects\Main\EHSApps.API\EHS.AzureServiceBusRelay.Server\bin\Debug\EHS.AzureServiceBusRelay.Server.dll.config
+D:\RahulWorkingFolder\CorpTFS\EHS_Projects\Main\EHSApps.API\EHS.AzureServiceBusRelay.Server\bin\Debug\EHS.AzureServiceBusRelay.Server.dll
+D:\RahulWorkingFolder\CorpTFS\EHS_Projects\Main\EHSApps.API\EHS.AzureServiceBusRelay.Server\bin\Debug\EHS.AzureServiceBusRelay.Server.pdb
+D:\RahulWorkingFolder\CorpTFS\EHS_Projects\Main\EHSApps.API\EHS.AzureServiceBusRelay.Server\bin\Debug\EHS.AzureServiceBusRelay.Server.dll.CodeAnalysisLog.xml
+D:\RahulWorkingFolder\CorpTFS\EHS_Projects\Main\EHSApps.API\EHS.AzureServiceBusRelay.Server\bin\Debug\EHS.AzureServiceBusRelay.Server.dll.lastcodeanalysissucceeded
+D:\RahulWorkingFolder\CorpTFS\EHS_Projects\Main\EHSApps.API\EHS.AzureServiceBusRelay.Server\bin\Debug\Microsoft.Owin.dll
+D:\RahulWorkingFolder\CorpTFS\EHS_Projects\Main\EHSApps.API\EHS.AzureServiceBusRelay.Server\bin\Debug\Microsoft.Owin.Hosting.dll
+D:\RahulWorkingFolder\CorpTFS\EHS_Projects\Main\EHSApps.API\EHS.AzureServiceBusRelay.Server\bin\Debug\Microsoft.ServiceBus.dll
+D:\RahulWorkingFolder\CorpTFS\EHS_Projects\Main\EHSApps.API\EHS.AzureServiceBusRelay.Server\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\RahulWorkingFolder\CorpTFS\EHS_Projects\Main\EHSApps.API\EHS.AzureServiceBusRelay.Server\bin\Debug\Owin.dll
+D:\RahulWorkingFolder\CorpTFS\EHS_Projects\Main\EHSApps.API\EHS.AzureServiceBusRelay.Server\bin\Debug\Microsoft.Owin.xml
+D:\RahulWorkingFolder\CorpTFS\EHS_Projects\Main\EHSApps.API\EHS.AzureServiceBusRelay.Server\bin\Debug\Microsoft.Owin.Hosting.xml
+D:\RahulWorkingFolder\CorpTFS\EHS_Projects\Main\EHSApps.API\EHS.AzureServiceBusRelay.Server\bin\Debug\Microsoft.ServiceBus.xml
+D:\RahulWorkingFolder\CorpTFS\EHS_Projects\Main\EHSApps.API\EHS.AzureServiceBusRelay.Server\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+D:\RahulWorkingFolder\CorpTFS\EHS_Projects\Main\EHSApps.API\EHS.AzureServiceBusRelay.Server\obj\Debug\EHS.AzureServiceBusRelay.Server.csprojResolveAssemblyReference.cache
+D:\RahulWorkingFolder\CorpTFS\EHS_Projects\Main\EHSApps.API\EHS.AzureServiceBusRelay.Server\obj\Debug\EHS.AzureServiceBusRelay.Server.dll
+D:\RahulWorkingFolder\CorpTFS\EHS_Projects\Main\EHSApps.API\EHS.AzureServiceBusRelay.Server\obj\Debug\EHS.AzureServiceBusRelay.Server.pdb

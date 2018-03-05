@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="5a797109-936c-4290-85cd-a449be791f20" xmlns="urn:schemas-microsoft-com:xml-dataservicemap">
+  <MetadataSources>
+    <MetadataSource Address="http://ehsdev/ehs/_vti_bin/ListData.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.edmx" MetadataType="Edmx" ID="c5da2b78-7e3f-4b33-b71c-c5d85c4eee48" SourceId="1" SourceUrl="http://ehsdev/ehs/_vti_bin/ListData.svc" />
+  </Metadata>
+  <Extensions />
+  <Parameters>
+    <Parameter Name="NuGetPackageSource" Value="C:\Program Files (x86)\Microsoft WCF Data Services\5.6.4\bin\NuGet\" />
+    <Parameter Name="NuGetPackageId" Value="Microsoft.Data.Services.Client" />
+    <Parameter Name="Version" Value="3.0" />
+  </Parameters>
+</ReferenceGroup>
